@@ -1,0 +1,5 @@
+name: TestPlugin
+version: 1.0
+author: DrNeox
+main: de.drneox.test.Lobby
+commands:
